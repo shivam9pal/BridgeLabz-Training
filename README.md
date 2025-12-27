@@ -1,75 +1,104 @@
 
 # BridgeLabz-Training
-Trainee: Shivam Pal
-Organization: BridgeLabz Solutions Pvt. Ltd.
 
-🧾 About This Log
+**Trainee:** Shivam Pal  
+**Organization:** BridgeLabz Solutions Pvt. Ltd.
 
-This document serves as a structured daily learning log maintained as part of the BridgeLabz training program.
-It records day-wise progress, concepts learned, practical exercises completed, and problem-solving activities, organized week-wise for better readability and tracking.
+## About This Repository
 
-The primary objective of this log is to:
+This repository tracks my daily learning progress at BridgeLabz, documenting Java practice, problem-solving, and hands-on coding exercises. Updated regularly as I complete assignments and labs.
 
-Maintain learning transparency
+### Purpose:
+- Transparent learning tracking
+- Daily technical progress documentation
+- Audit trail of all coding work
+- Demonstrate consistency and discipline
 
-Track continuous technical growth
+---
 
-Provide a clear audit trail of daily training activities
+## Tech Stack & Tools
 
-Reflect discipline, consistency, and hands-on practice
+| Category | Technology |
+|----------|-----------|
+| Programming Language | Java |
+| IDE | Eclipse |
+| Version Control | Git |
+| Hosting | GitHub |
+| Problem Solving | LeetCode (Java solutions) |
+| Learning Method | Hands-on coding, daily assignments, scenario-based problems |
 
-This repository is updated regularly in alignment with BridgeLabz training guidelines.
+---
 
+## Repository Layout
 
-🧠 Training Focus & Learning Approach
+```
+BridgeLabz-Training (main repository)
+│
+├── Branch: core-java-practice
+│   ├── gcr-codebase
+│   │   ├── arrays
+│   │   ├── control-flow
+│   │   ├── methods
+│   │   ├── programming-elements
+│   │   └── strings
+│   ├── leet-code-codebase
+│   └── scenario-based
+│
+├── Branch: oops-practice
+│   ├── gcr-codebase
+│   │   ├── encapsulation
+│   │   ├── inheritance
+│   │   └── polymorphism
+│   ├── leet-code-codebase
+│   └── scenario-based
+│
+└── Branch: reviews 
+```
 
-The training emphasizes:
+---
 
-Fundamental-to-advanced programming concepts
+## Learning Approach
 
-Logic building and problem-solving
+| Principle | Description |
+|-----------|-------------|
+| Logic First | Build solutions without over-relying on built-in shortcuts |
+| Clean Code | Write modular, reusable methods with clear naming |
+| Edge Cases | Handle invalid input, overflow, and boundary conditions |
+| Real-World Mapping | Scenario-based problems mirror actual use cases |
+| Incremental Growth | Start simple, then add validation and optimization |
 
-Writing clean, modular, and optimized code
+---
 
-Avoiding overuse of built-in shortcuts to strengthen fundamentals
+## Current Status
 
-Daily practice with progressive difficulty
+**Completed:** Core Java fundamentals, control flow, methods, arrays, strings and utility programs
 
+**Next Steps:** Move to OOP concepts (encapsulation, inheritance, polymorphism) in separate branch
 
-🛠️ Tech Stack & Tools Used
+---
 
-Category	Technologies / Tools
+## Progress Tracking
 
-Programming Language	C#, Java (Practice & Logic Building)
+This repository serves as a complete audit trail of my learning journey, showcasing:
 
-IDE / Eclipse IDE
+- Daily commitment to coding practice
+- Progressive skill development from basics to advanced concepts
+- Real-world problem-solving abilities
+- Clean, documented, and maintainable code
 
-Version Control	Git
+---
 
-Repository Hosting	GitHub
+## Learning Progress Summary
 
-Learning Method	Hands-on Coding, Daily Assignments
+### Week 1: Getting Started with Java Basics
 
+- **19-Jan-2025 (Sunday):** Installed and set up Java environment. Solved and submitted basic practice problems.
+- **20-Jan-2025 (Monday):** Studied Java fundamentals and variables. Solved elementary problems.
+- **21-Jan-2025 (Tuesday):** Continued with control flow. Practiced loops and conditionals.
+- **22-Jan-2025 (Wednesday):** Solved and submitted basic practice problems.
+- **23-Jan-2025 (Wednesday):** Solved practice problems set .
+- **24-Jan-2025 (Wednesday):** Completed and submitted array and method problems.
+- **25-Jan-2025 (Wednesday):** Methods & String Manipulation problems solved.
+- **26-Dec-2025 (Sunday):** Number Validators and calculators completed.
+- **27-Dec-2025 (Monday):**  Scenario-based Problems implemented.
 
-📦 BridgeLabz-Training
- ┣ Core-java-practice
- ┃ ┣ 📂 gcr-codebase
- ┃ ┣ 📂 leet-code-codebase
- ┃ ┣ 📂 scenario-based
- ┃ 
- ┣ oops-practice
- ┃ ┣ 📂 gcr-codebase
- ┃ ┣ 📂 leet-code-codebase
- ┃ ┣ 📂 scenario-based 
- ┗ 📄 README.md
-
-
-🗓️ Weekly Progress Overview
-
-Each week focuses on a specific learning theme, with tasks broken down day-wise.
-
-
-🗓️ Week 1: Getting Started with .NET and C# Fundamentals
-
-Objective:
-To build a strong foundation in java basics, and core programming elements.
