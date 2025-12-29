@@ -42,4 +42,12 @@ class RomanToInteger {
         }
         return number;
     }
+    
+    public static void main(String[] args) {
+        RomanToInteger solution = new RomanToInteger();
+        
+        // Test
+        System.out.println("Roman 'III' = " + solution.romanToInt("III"));
+      
+    }
 }

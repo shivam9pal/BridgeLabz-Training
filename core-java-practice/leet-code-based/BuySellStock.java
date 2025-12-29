@@ -15,4 +15,11 @@ class BuySellStock {
         }
         return profit;
     }
+    
+    public static void main(String[] args) {
+        BuySellStock solution = new BuySellStock();
+        int[] prices1 = {7, 1, 5, 3, 6, 4};
+        System.out.println("Max profit for [7, 1, 5, 3, 6, 4]: " + solution.maxProfit(prices1));
+      
+    }
 }
