@@ -100,6 +100,6 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **25-Dec-2025 (Thursday):** Methods & String Manipulation problems solved.
 - **26-Dec-2025 (Friday):** Number Validators and calculators completed.
 - **27-Dec-2025 (Saturday):**  Scenario-based Problems implemented.
-- **28-Dec-2025 (Sunday):**  Works with Java built ib Date and time.
+- **28-Dec-2025 (Sunday):**  Works with Java built in Date and time.
 - **29-Dec-2025 (Monday):**  Completed Employee Wages Scenario based problem and also leetcode question.
 
