@@ -92,13 +92,12 @@ This repository serves as a complete audit trail of my learning journey, showcas
 
 ### Week 1: Getting Started with Java Basics
 
-- **19-Jan-2025 (Sunday):** Installed and set up Java environment. Solved and submitted basic practice problems.
-- **20-Jan-2025 (Monday):** Studied Java fundamentals and variables. Solved elementary problems.
-- **21-Jan-2025 (Tuesday):** Continued with control flow. Practiced loops and conditionals.
-- **22-Jan-2025 (Wednesday):** Solved and submitted basic practice problems.
-- **23-Jan-2025 (Wednesday):** Solved practice problems set .
-- **24-Jan-2025 (Wednesday):** Completed and submitted array and method problems.
-- **25-Jan-2025 (Wednesday):** Methods & String Manipulation problems solved.
-- **26-Dec-2025 (Sunday):** Number Validators and calculators completed.
-- **27-Dec-2025 (Monday):**  Scenario-based Problems implemented.
+- **20-Dec-2025 (Saturday):** Studied Java fundamentals and variables. Solved elementary problems.
+- **21-Dec-2025 (Sunday):** Continued with control flow. Practiced loops and conditionals.
+- **22-Dec-2025 (Monday):** Solved and submitted basic practice problems.
+- **23-Dec-2025 (Tuesday):** Solved practice problems set .
+- **24-Dec-2025 (Wednesday):** Completed and submitted array and method problems.
+- **25-Dec-2025 (Thursday):** Methods & String Manipulation problems solved.
+- **26-Dec-2025 (Friday):** Number Validators and calculators completed.
+- **27-Dec-2025 (Saturday):**  Scenario-based Problems implemented.
 
