@@ -103,4 +103,6 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **28-Dec-2025 (Sunday):**  Works with Java built in Date and time.
 - **29-Dec-2025 (Monday):**  Completed Employee Wages Scenario based problem and also leetcode question.
 - **30-Dec-2025 (Tuesday):**  Snake and Ladder scenario based and started learning Java OOPs concept.
+- **31-Dec-2025 (Wednesday):** Learning about class & object , constructor, instace and class variable.
+
 
