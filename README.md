@@ -102,7 +102,21 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **27-Dec-2025 (Saturday):**  Scenario-based Problems implemented.
 - **28-Dec-2025 (Sunday):**  Works with Java built in Date and time.
 - **29-Dec-2025 (Monday):**  Completed Employee Wages Scenario based problem and also leetcode question.
-- **30-Dec-2025 (Tuesday):**  Snake and Ladder scenario based and started learning Java OOPs concept.
-- **31-Dec-2025 (Wednesday):** Learning about class & object , constructor, instace and class variable.
+
+### Week 2: Getting Started with Object-Oriented Programming
+
+- **30-Dec-2025 (Tuesday):**  
+  Designed and implemented a **Snake and Ladder** scenario-based program to understand real-world object modeling. Initiated learning of **Java OOPs concepts** by mapping game entities to classes and objects.
+- **31-Dec-2025 (Wednesday):**  
+  Learned and practiced **Classes & Objects**, **Constructors**, **Instance Variables**, and **Class Variables**. Focused on memory allocation, object lifecycle, and constructor usage with multiple examples.
+- **01-Jan-2026 (Thursday):**  
+  Studied **Object-Oriented Programming Fundamentals**, covering OOP principles, object behavior, state, and interactions. Strengthened conceptual clarity through theory and basic implementations.
+- **02-Jan-2026 (Friday):**  
+  Explored **Java Constructors**, **Instance vs Class Variables**, and effective usage of **this**, **static**, and **final** keywords. Implemented small programs to understand scope, immutability, and shared data.
+- **03-Jan-2026 (Saturday):**  
+  Learned **Inheritance** in Java by implementing *IS-A relationships*. Understood method overriding, code reusability, and hierarchical class design using real-world examples.
+
+---
+
 
 
