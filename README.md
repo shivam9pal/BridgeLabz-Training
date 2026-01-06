@@ -115,6 +115,12 @@ This repository serves as a complete audit trail of my learning journey, showcas
   Explored **Java Constructors**, **Instance vs Class Variables**, and effective usage of **this**, **static**, and **final** keywords. Implemented small programs to understand scope, immutability, and shared data.
 - **03-Jan-2026 (Saturday):**  
   Learned **Inheritance** in Java by implementing *IS-A relationships*. Understood method overriding, code reusability, and hierarchical class design using real-world examples.
+- **05-Jan-2026 (Monday):**  
+  Understood **Encapsulation**, **Polymorphism**, **Interface**, and **Abstract Class**. Learned data hiding principles, method overriding vs overloading, contract-based programming with interfaces, and abstract class implementation for creating extensible designs.
+- **06-Jan-2026 (Tuesday):**  
+  **BankingApp**, **CafetariaMenuApp**, **InvoiceGenerator**, **LibraryManagementSystem**, **MathUtilityLibrary**, **StudentQuizGrader**, **StudentScoreAnalyzer**
+  Learned and practiced OOP concepts: Encapsulation, Polymorphism, Inheritance, Interfaces, and Abstract Classes.
+  
 
 ---
 
