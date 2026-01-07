@@ -120,6 +120,18 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **06-Jan-2026 (Tuesday):**  
   **BankingApp**, **CafetariaMenuApp**, **InvoiceGenerator**, **LibraryManagementSystem**, **MathUtilityLibrary**, **StudentQuizGrader**, **StudentScoreAnalyzer**
   Learned and practiced OOP concepts: Encapsulation, Polymorphism, Inheritance, Interfaces, and Abstract Classes.
+-**07-Jan-2026 (Wednesday):**  
+  **CabBookingApp**, **OnlineBankingSystem**
+  Learned and implemented **real-world scenario–based applications** using Java.  
+  Designed a **Cab Booking / Ride Management System** applying OOP concepts with `User`, `Driver`, and `Ride` classes, used **Interfaces** (`FareCalculator`) and **Polymorphism** for peak vs normal pricing, and handled edge cases using **custom exceptions** (`NoDriverAvailableException`).  
+
+  Also developed an **Online Banking System** supporting account creation, balance check, fund transfer, and transaction history.  
+  Practiced **Inheritance** (`Account → SavingsAccount / CurrentAccount`), **Abstraction** via `BankService` interface, **Polymorphism** for interest calculation, **custom exception handling** (`InsufficientBalanceException`), and **Multithreading with synchronization** to ensure thread-safe concurrent transactions.
+
+  Learned and practiced advanced OOP concepts: **Encapsulation, Inheritance, Polymorphism, Abstraction, Interfaces, Exception Handling.
+
+
+
   
 
 ---
