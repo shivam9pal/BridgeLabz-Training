@@ -124,11 +124,18 @@ This repository serves as a complete audit trail of my learning journey, showcas
   **CabBookingApp**, **OnlineBankingSystem**
   Learned and implemented **real-world scenario–based applications** using Java.  
   Designed a **Cab Booking / Ride Management System** applying OOP concepts with `User`, `Driver`, and `Ride` classes, used **Interfaces** (`FareCalculator`) and **Polymorphism** for peak vs normal pricing, and handled edge cases using **custom exceptions** (`NoDriverAvailableException`).  
-
   Also developed an **Online Banking System** supporting account creation, balance check, fund transfer, and transaction history.  
   Practiced **Inheritance** (`Account → SavingsAccount / CurrentAccount`), **Abstraction** via `BankService` interface, **Polymorphism** for interest calculation, **custom exception handling** (`InsufficientBalanceException`), and **Multithreading with synchronization** to ensure thread-safe concurrent transactions.
 
   Learned and practiced advanced OOP concepts: **Encapsulation, Inheritance, Polymorphism, Abstraction, Interfaces, Exception Handling.
+-**08-Jan-2026 (Thursday):**  
+  Learned **LinkedList** data structure in Java. Understood node-based storage, dynamic memory allocation, and operations like insertion, deletion, and traversal.
+- **09-Jan-2026 (Friday):**  
+  **HospitalPatientManagementSystem** - Implemented CRUD operations with **Patient**, **Doctor**, **Bill** classes. Practiced **Encapsulation**, **Abstraction** (IPayable interface), **Inheritance** (InPatient, OutPatient), and **Polymorphism**.
+  **VehicleRentalApplication** - Built CRUD system with **Vehicle**, **Bike**, **Car**, **Truck**, **Customer** classes. Applied **access modifiers** (protected fields) and **Rentable interface** with CalculateRent method.
+  **FlightBookingSystem** - Developed flight booking system allowing users to search flights, book them, and view booking details. Used **Arrays** for flight data storage, **Lists** for bookings, **String operations** for case-insensitive search, and methods for searching, booking, and displaying information.
+ 
+
 
 
 
