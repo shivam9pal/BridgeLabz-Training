@@ -132,8 +132,18 @@ This repository serves as a complete audit trail of my learning journey, showcas
   Learned **LinkedList** data structure in Java. Understood node-based storage, dynamic memory allocation, and operations like insertion, deletion, and traversal.
 - **09-Jan-2026 (Friday):**  
   **HospitalPatientManagementSystem** - Implemented CRUD operations with **Patient**, **Doctor**, **Bill** classes. Practiced **Encapsulation**, **Abstraction** (IPayable interface), **Inheritance** (InPatient, OutPatient), and **Polymorphism**.
+  
   **VehicleRentalApplication** - Built CRUD system with **Vehicle**, **Bike**, **Car**, **Truck**, **Customer** classes. Applied **access modifiers** (protected fields) and **Rentable interface** with CalculateRent method.
+  
   **FlightBookingSystem** - Developed flight booking system allowing users to search flights, book them, and view booking details. Used **Arrays** for flight data storage, **Lists** for bookings, **String operations** for case-insensitive search, and methods for searching, booking, and displaying information.
+
+- **12-Jan-2026 (Monday):**  
+  **InventoryManagementSystem**, **CabBookingRideManagementSystem**, **HospitalManagementSystem**, **LibraryManagementSystem**
+  Learned OOP concepts and made interactions in service classes by implementing these programs.
+
+- **13-Jan-2026 (Tuesday):**  
+  **OnlineExaminationSystem**, **HotelReservationSystem**, **OnlineVotingSystem**, **DigitalWalletSystem**
+  Learned OOP concepts and made interactions in service classes by implementing these programs.
  
 
 
