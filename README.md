@@ -52,6 +52,20 @@ BridgeLabz-Training (main repository)
 │   ├── leet-code-codebase
 │   └── scenario-based
 │
+│── Branch: dsa-practice
+│   ├── gcr-codebase
+│   │   ├── sortingalgo
+│   │   ├── linkedlist
+│   │   └── stackandqueue
+│   ├── leet-code-codebase
+│   └── scenario-based
+│
+│── Branch: collection-practice
+│   ├── gcr-codebase
+│        └── generics
+│   ├── leet-code-codebase
+│   └── scenario-based
+│
 └── Branch: reviews 
 ```
 
@@ -72,8 +86,67 @@ BridgeLabz-Training (main repository)
 ## Current Status
 
 **Completed:** Core Java fundamentals, control flow, methods, arrays, strings and utility programs
+  **Core Java Scenario-Based Problems:**
+  - **BMICalculator** - Calculate Body Mass Index
+  - **BusRootDistanceTracker** - Track bus root distance
+  - **CoffeeCounter** - Count coffee transactions
+  - **DigitalWatch** - Digital watch functionality
+  - **DiwaliLuckyDraw** - Diwali lucky draw system
+  - **ElectionManager** - Election management
+  - **EmployeeWageComputation** - Employee wage calculations
+  - **LibraryReminderApp** - Library reminder system
+  - **LineComparisonComputation** - Line comparison logic
+  - **MetroCard** - Metro card system
+  - **MovieTicketing** - Movie ticketing system
+  - **SandeepFitness** - Fitness tracking app
+  - **SnakeAndLadder** - Snake and ladder game
+    **Core Java Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/core-java-practice/core-java-practice
 
-**Next Steps:** Move to OOP concepts (encapsulation, inheritance, polymorphism) in separate branch
+**Completed:** OOP concepts (encapsulation, inheritance, polymorphism,abstraction) with scenario based questions.
+  **OOP Scenario-Based Problems:**
+  - **FlightBookingSystem** - Flight booking and management
+  - **BankingSystem** - Banking operations and account management
+  - **DigitalWalletSystem** - Digital wallet transactions
+  - **EcommerceplatForm** - E-commerce platform
+  - **HospitalManagement** - Hospital patient and doctor management
+  - **HotelReservationSystem** - Hotel room reservations
+  - **InventoryManagement** - Inventory tracking and management
+  - **OnlineExaminationSystem** - Online exam platform
+  - **OnlineVotingSystem** - Online voting system
+  - **RDManagementSystem** - Research & Development management
+  - **StudentCourseRegistration** - Student course registration
+  - **TrafficManager** - Traffic management system
+  - **VehicleRentalSystem** - Vehicle rental operations
+  - **BankingApp** - Banking application
+  - **CafetariaMenuApp** - Cafeteria menu management
+  - **InvoiceGenerator** - Invoice generation
+  - **LibraryManagementSystem** - Library management
+  - **LibraryManagementSystemException** - Exception handling
+  - **MathUtilityLibrary** - Math utility functions
+  - **ParagraphAnalyzer** - Paragraph text analysis
+  - **PhoneContactOrganizer** - Contact organization
+  - **ResultProcessor** - Result processing
+  - **SentenceFormatter** - Sentence formatting
+  - **StudentCalculator** - Student grade calculations
+  - **StudentReportGenerator** - Report generation
+  - **StudentScoreComparator** - Score comparison
+  - **StudentScores** - Student score management
+  - **TemperatureAnalysis** - Temperature data analysis
+
+**Completed:** Data Structures & Algorithms (Linked Lists, Stack, Queue, HashMap, Sorting ,Searching)
+  **DSA Scenario-Based Problems:**
+  - **BankAccountHierarchy** - Bank account management with hierarchy
+  - **Bookshelf** - Bookshelf organization system
+  - **BrowserBuddy** - Browser bookmark management
+  - **EmployeeRole** - Employee role management
+  - **ExamProctor** - Exam proctoring system
+  - **MovieScheduler** - Movie scheduling application
+  - **ParcelTracker** - Parcel tracking system
+  - **TrafficManager** - Traffic management system
+
+  **DSA Scenario-Based Branch:**https://github.com/shivam9pal/BridgeLabz-Training/tree/dsa-practice/scenario-based
+
+   
 
 ---
 
@@ -103,33 +176,46 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **28-Dec-2025 (Sunday):**  Works with Java built in Date and time.
 - **29-Dec-2025 (Monday):**  Completed Employee Wages Scenario based problem and also leetcode question.
 
+  **Core Java Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/core-java-practice/core-java-practice
+
 ### Week 2: Getting Started with Object-Oriented Programming
 
 - **30-Dec-2025 (Tuesday):**  
   Designed and implemented a **Snake and Ladder** scenario-based program to understand real-world object modeling. Initiated learning of **Java OOPs concepts** by mapping game entities to classes and objects.
+
 - **31-Dec-2025 (Wednesday):**  
   Learned and practiced **Classes & Objects**, **Constructors**, **Instance Variables**, and **Class Variables**. Focused on memory allocation, object lifecycle, and constructor usage with multiple examples.
+
 - **01-Jan-2026 (Thursday):**  
   Studied **Object-Oriented Programming Fundamentals**, covering OOP principles, object behavior, state, and interactions. Strengthened conceptual clarity through theory and basic implementations.
+
 - **02-Jan-2026 (Friday):**  
   Explored **Java Constructors**, **Instance vs Class Variables**, and effective usage of **this**, **static**, and **final** keywords. Implemented small programs to understand scope, immutability, and shared data.
+
 - **03-Jan-2026 (Saturday):**  
   Learned **Inheritance** in Java by implementing *IS-A relationships*. Understood method overriding, code reusability, and hierarchical class design using real-world examples.
+
 - **05-Jan-2026 (Monday):**  
   Understood **Encapsulation**, **Polymorphism**, **Interface**, and **Abstract Class**. Learned data hiding principles, method overriding vs overloading, contract-based programming with interfaces, and abstract class implementation for creating extensible designs.
+
 - **06-Jan-2026 (Tuesday):**  
   **BankingApp**, **CafetariaMenuApp**, **InvoiceGenerator**, **LibraryManagementSystem**, **MathUtilityLibrary**, **StudentQuizGrader**, **StudentScoreAnalyzer**
   Learned and practiced OOP concepts: Encapsulation, Polymorphism, Inheritance, Interfaces, and Abstract Classes.
+  
 -**07-Jan-2026 (Wednesday):**  
   **CabBookingApp**, **OnlineBankingSystem**
   Learned and implemented **real-world scenario–based applications** using Java.  
-  Designed a **Cab Booking / Ride Management System** applying OOP concepts with `User`, `Driver`, and `Ride` classes, used **Interfaces** (`FareCalculator`) and **Polymorphism** for peak vs normal pricing, and handled edge cases using **custom exceptions** (`NoDriverAvailableException`).  
+
+  Designed a **Cab Booking / Ride Management System** applying OOP concepts with `User`, `Driver`, and `Ride` classes, used **Interfaces** (`FareCalculator`) and **Polymorphism** for peak vs normal pricing, and handled edge cases using **custom exceptions** (`NoDriverAvailableException`). 
+
   Also developed an **Online Banking System** supporting account creation, balance check, fund transfer, and transaction history.  
+
   Practiced **Inheritance** (`Account → SavingsAccount / CurrentAccount`), **Abstraction** via `BankService` interface, **Polymorphism** for interest calculation, **custom exception handling** (`InsufficientBalanceException`), and **Multithreading with synchronization** to ensure thread-safe concurrent transactions.
 
   Learned and practiced advanced OOP concepts: **Encapsulation, Inheritance, Polymorphism, Abstraction, Interfaces, Exception Handling.
 -**08-Jan-2026 (Thursday):**  
   Learned **LinkedList** data structure in Java. Understood node-based storage, dynamic memory allocation, and operations like insertion, deletion, and traversal.
+
 - **09-Jan-2026 (Friday):**  
   **HospitalPatientManagementSystem** - Implemented CRUD operations with **Patient**, **Doctor**, **Bill** classes. Practiced **Encapsulation**, **Abstraction** (IPayable interface), **Inheritance** (InPatient, OutPatient), and **Polymorphism**.
   
@@ -144,9 +230,28 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **13-Jan-2026 (Tuesday):**  
   **OnlineExaminationSystem**, **HotelReservationSystem**, **OnlineVotingSystem**, **DigitalWalletSystem**
   Learned OOP concepts and made interactions in service classes by implementing these programs.
+
+  **OOP Branch:**https://github.com/shivam9pal/BridgeLabz-Training/tree/oops-practice/oops-practice
+
  
+ ### Week 3: Getting Started with Data Structures & Algorithms
+
+- **14-Jan-2026 (Wednesday):**  
+  Learned **Data Structure Introduction and Linked Lists**. Studied key features of data structures in Java, types of data structures, and implementations of **Single Linked List**, **Double Linked List**, and **Circular Linked List**. Understood node-based storage and traversal techniques.
+
+- **15-Jan-2026 (Thursday):**  
+  Studied **Stack**, **Queue**, **HashMap**, and **Hashing Function**. Learned LIFO and FIFO principles, hash table implementation, collision handling, and practical applications in Java.
+
+- **16-Jan-2026 (Friday):**  
+  Learned **Sorting Algorithms** including **Bubble Sort**, **Insertion Sort**, **Merge Sort**, and **Quick Sort**. Understood algorithm logic, time complexity, space complexity, and when to apply each algorithm.
+
+- **17-Jan-2026 (Saturday):**  
+  Studied **Linear Search**, **Binary Search**, **StringBuilder**, **StringBuffer**, and **FileReader**. Learned search algorithms, string handling, file I/O operations, and **Algorithm's Runtime Analysis & Big-O Notation**. Explored **Time Complexity Analysis**, **Space Complexity Analysis**, **Best/Worst/Average Case Complexities**, and **Practical Guidelines for Optimizing Java Code**.
+
+  **DSA Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/dsa-practice
 
 
+  ### Week 4: Getting Started with Collections, Streams
 
 
   
