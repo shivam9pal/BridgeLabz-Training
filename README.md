@@ -100,6 +100,8 @@ BridgeLabz-Training (main repository)
   - **MovieTicketing** - Movie ticketing system
   - **SandeepFitness** - Fitness tracking app
   - **SnakeAndLadder** - Snake and ladder game
+  - **LexicalTwist** 
+  - **FlipKey**
     **Core Java Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/core-java-practice/core-java-practice
 
 **Completed:** OOP concepts (encapsulation, inheritance, polymorphism,abstraction) with scenario based questions.
@@ -146,8 +148,14 @@ BridgeLabz-Training (main repository)
 
   **DSA Scenario-Based Branch:**https://github.com/shivam9pal/BridgeLabz-Training/tree/dsa-practice/scenario-based
 
-   
+**Collection Practice Scenario-Based Problems:**
+  - **BackupScheduler** - Backup scheduling system
+  - **EduResults** - Education results management
+  - **Package** - Package management system
+  - **RestaurantReservation** - Restaurant reservation system
+  - **SmartCheckout** - Smart checkout system
 
+  **Collections & Streams Scenario** https://github.com/shivam9pal/BridgeLabz-Training/tree/collection-practice
 ---
 
 ## Progress Tracking
@@ -251,8 +259,24 @@ This repository serves as a complete audit trail of my learning journey, showcas
   **DSA Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/dsa-practice
 
 
-  ### Week 4: Getting Started with Collections, Streams
+### Week 4: Getting Started with Collections, Streams and Advanced Java
 
+- **19-Jan-2026 (Sunday):**  
+  Learned **Java Generics**. Understood type parameters, generic classes, generic methods, bounded types, and wildcards. Explored how generics provide type safety and reduce casting errors in collections.
+
+- **20-Jan-2026 (Monday):**  
+  Studied **Collections Framework** in Java. Learned about List, Set, Queue, and Map interfaces. Explored ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap, and their operations with practical implementations.
+
+- **21-Jan-2026 (Tuesday):**  
+  Studied **Exceptions** in Java. Learned exception hierarchy, try-catch-finally blocks, checked vs unchecked exceptions, custom exceptions, and exception handling best practices. Implemented robust error handling mechanisms.
+
+- **22-Jan-2026 (Wednesday):**  
+  Learned **Java Streams** and **I/O Streams in Java**. Understood the Streams API for functional-style operations on collections, filter, map, reduce operations. Explored FileInputStream, FileOutputStream, BufferedReader, BufferedWriter for I/O operations.
+
+- **27-Jan-2026 (Monday):**  
+  Studied **Regex & JUnit**. Learned regular expressions for pattern matching and string validation. Explored JUnit framework for unit testing, annotations like @Test, @Before, @After, and assertion methods.
+
+  **Collections & Streams Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/collection-practice
 
   
 
