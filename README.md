@@ -273,12 +273,37 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **22-Jan-2026 (Wednesday):**  
   Learned **Java Streams** and **I/O Streams in Java**. Understood the Streams API for functional-style operations on collections, filter, map, reduce operations. Explored FileInputStream, FileOutputStream, BufferedReader, BufferedWriter for I/O operations.
 
-- **27-Jan-2026 (Monday):**  
+- **27-Jan-2026 (Tuesday):**  
   Studied **Regex & JUnit**. Learned regular expressions for pattern matching and string validation. Explored JUnit framework for unit testing, annotations like @Test, @Before, @After, and assertion methods.
 
   **Collections & Streams Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/collection-practice
 
-  
+### Week 5: Advanced Collections, Annotations & Reflection
+
+- **28-Jan-2026 (Wednesday):**  
+  Studied **Annotations & Reflection** in Java. Learned built-in annotations (@Override, @Deprecated, @SuppressWarnings), creating custom annotations, and understanding the Reflection API for introspection and dynamic class loading. Explored how annotations provide metadata and how reflection enables runtime type examination.
+
+- **29-Jan-2026 (Thursday):**  
+  Began **IO Programming - CSV Data Handling**. Learned file reading/writing operations with CSV format, parsing CSV data, and handling delimited data. Explored practical applications of CSV handling in data processing.
+
+- **31-Jan-2026 (Saturday):**  
+  Studied **JSON Data Handling**. Learned JSON structure, parsing JSON strings, creating JSON objects, and serialization/deserialization. Explored JSON libraries and best practices for working with JSON in Java applications.
+
+### Week 6: Java 8 & its Features
+
+- **02-Feb-2026 (Monday):**  
+  Learned **Lambda Expressions** in Java. Understood functional programming concepts, lambda syntax, method references, and how lambdas reduce boilerplate code. Explored practical applications in event handling and stream operations.
+
+- **02-Feb-2026 (Sunday):**  
+  Studied **Functional Interfaces** in Java. Learned the concept of single abstract method (SAM), built-in functional interfaces (Predicate, Function, Consumer, Supplier), and creating custom functional interfaces. Understood how functional interfaces enable lambda expression usage.
+
+- **03-Feb-2026 (Tuesday):**  
+  Explored **Stream API** in Java. Learned intermediate operations (filter, map, flatMap), terminal operations (collect, reduce, forEach), stream creation, and functional composition. Practiced lazy evaluation and intermediate stream transformations.
+
+- **03-Feb-2026 (Tuesday):**  
+  Studied **Collectors** in Java. Learned grouping, partitioning, custom collectors, and terminal collection operations. Explored how collectors provide powerful data aggregation and transformation capabilities with streams.
+
+  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/java-eight-features-practice
 
 ---
 
