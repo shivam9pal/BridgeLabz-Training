@@ -370,6 +370,8 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **31-Jan-2026 (Saturday):**  
   Studied **JSON Data Handling**. Learned JSON structure, parsing JSON strings, creating JSON objects, and serialization/deserialization. Explored JSON libraries and best practices for working with JSON in Java applications.
 
+  **IO Programming Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/io-programming?tab=readme-ov-file
+
 ### Week 6: Java 8 & its Features
 
 - **02-Feb-2026 (Monday):**  
@@ -384,7 +386,7 @@ This repository serves as a complete audit trail of my learning journey, showcas
 - **03-Feb-2026 (Tuesday):**  
   Studied **Collectors** in Java. Learned grouping, partitioning, custom collectors, and terminal collection operations. Explored how collectors provide powerful data aggregation and transformation capabilities with streams.
 
-  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/java-eight-features-practice
+  **Java 8 Features Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/java-eight-features-practice?tab=readme-ov-file
 
 ### Week 7: Solution Designing - Design Patterns
 
@@ -399,7 +401,7 @@ This repository serves as a complete audit trail of my learning journey, showcas
   - **Online Auction Bidding System** - TreeMap, Sorting, OOP, Exception Handling
   - **Smart Energy Consumption Monitor** - Map, List, OOP, Exception Handling
 
-  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/design-patterns-practice
+  **Design Patterns Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/design-pattern-practice
 
 ### Week 8: Multi-Threading in Java
 
@@ -414,7 +416,7 @@ This repository serves as a complete audit trail of my learning journey, showcas
   - Deadlock prevention
   - Executor framework
 
-  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/multithreading-practice
+  **Multi-Threading Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/multi-threading-practice?tab=readme-ov-file
 
 ### Week 9: JDBC & Database Management System
 
@@ -430,7 +432,7 @@ This repository serves as a complete audit trail of my learning journey, showcas
   - MySQL database implementation
   - Query optimization
 
-  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/jdbc-dbms-practice
+  **JDBC & DBMS Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/jdbc-dbms-practice?tab=readme-ov-file
 
 ### Week 10: Java Backend - Spring & Servlet
 
