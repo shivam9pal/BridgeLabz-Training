@@ -66,6 +66,32 @@ BridgeLabz-Training (main repository)
 │   ├── leet-code-codebase
 │   └── scenario-based
 │
+|── Branch: io-programming-practice
+│   ├── gcr-codebase
+│   ├── leet-code-codebase
+│   |── scenario-based
+|   
+|── Branch: java-eight-features-practice
+│   ├── gcr-codebase
+│   ├── leet-code-codebase
+│   |── scenario-based
+|   
+|── Branch: design-pattern-practice
+│   ├── gcr-codebase
+│   ├── leet-code-codebase
+│   |── scenario-based
+|   
+|── Branch: multi-threading-practice
+│   ├── gcr-codebase
+│   ├── leet-code-codebase
+│   |── scenario-based
+|   
+|── Branch: jdbc-dbms-practice
+│   ├── gcr-codebase
+│   ├── leet-code-codebase
+│   |── scenario-based
+|   
+|
 └── Branch: reviews 
 ```
 
@@ -156,9 +182,64 @@ BridgeLabz-Training (main repository)
   - **SmartCheckout** - Smart checkout system
 
   **Collections & Streams Scenario** https://github.com/shivam9pal/BridgeLabz-Training/tree/collection-practice
----
 
-## Progress Tracking
+**Completed:** Java 8 & Its Features (Lambda Expressions, Functional Interfaces, Stream API, Collectors)
+  **Java 8 Scenario-Based Problems:**
+  - **Employee Wage Computation Problem** - Java 8 Stream operations
+  - **Online Course Enrollment Manager** - Filter, Group, Count, Sort enrollments using Streams and Collectors
+  - **Stream Buzz** - Stream API operations
+  - **AeroVigil Problem** - Lambda expressions and functional interfaces
+  - Multiple filtering, mapping, and collection operations
+
+  **Java 8 Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/java-eight-features-practice
+
+**Completed:** Solution Designing - Design Patterns (Creational, Structural, Behavioral)
+  **Design Patterns Scenario-Based Problems:**
+  - **Employee Leave Management System** - Map, List, Exception Handling
+  - **Music Playlist Manager** - LinkedList, Stack, Set, Exception Handling
+  - **Food Delivery Order Routing System** - Queue, List, OOP, Exception Handling
+  - **Online Classroom Attendance Tracker** - Set, Map, OOP, Custom Exception
+  - **Online Auction Bidding System** - TreeMap, Sorting, OOP, Exception Handling
+  - **Smart Energy Consumption Monitor** - Map, List, OOP, Exception Handling
+
+  **Design Patterns Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/design-patterns-practice
+
+**Completed:** Multi-Threading in Java
+  **Multi-Threading Concepts:**
+  - Thread creation and lifecycle
+  - Synchronization and locks
+  - Thread-safe operations
+  - Producer-Consumer problem
+  - Concurrent programming fundamentals
+
+  **Multi-Threading Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/multithreading-practice
+
+**Completed:** JDBC & Database Management Systems (MySQL)
+  **JDBC & DBMS Topics:**
+  - JDBC driver management and connections
+  - PreparedStatement and parameterized queries
+  - CRUD operations
+  - Transaction management
+  - MySQL database integration
+  - Connection pooling
+
+  **JDBC & DBMS Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/jdbc-dbms-practice
+
+**In Progress:** Java Backend - Spring Boot & Servlet
+  **Backend Topics:**
+  - Tomcat servlet container
+  - Servlet lifecycle and request handling
+  - Spring Framework introduction
+  - Dependency Injection (DI) and Inversion of Control (IoC)
+  - Spring annotations and configuration
+
+  **Java Backend Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/java-backend-practice
+
+**Quantity Measurement App (In Progress):**
+  - **Feet Measurement Quality (UC1)** - Feet measurement equality validation
+  - **Feet and Inches Measurement Equality (UC2)** - Combined feet and inches measurement equality
+
+---
 
 This repository serves as a complete audit trail of my learning journey, showcasing:
 
@@ -305,7 +386,91 @@ This repository serves as a complete audit trail of my learning journey, showcas
 
   **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/java-eight-features-practice
 
+### Week 7: Solution Designing - Design Patterns
+
+- **05-Feb-2026 (Wednesday):**  
+  Learned **Design Patterns** in Java. Studied **Creational Patterns** (Singleton, Factory, Builder), **Structural Patterns** (Adapter, Bridge, Composite), and **Behavioral Patterns** (Observer, Strategy, Command). Understood SOLID principles and best practices for designing scalable, maintainable code.
+
+  **Design Patterns Scenario-Based Problems:**
+  - **Employee Leave Management System** - Map, List, Exception Handling
+  - **Music Playlist Manager** - LinkedList, Stack, Set, Exception Handling
+  - **Food Delivery Order Routing System** - Queue, List, OOP, Exception Handling
+  - **Online Classroom Attendance Tracker** - Set, Map, OOP, Custom Exception
+  - **Online Auction Bidding System** - TreeMap, Sorting, OOP, Exception Handling
+  - **Smart Energy Consumption Monitor** - Map, List, OOP, Exception Handling
+
+  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/design-patterns-practice
+
+### Week 8: Multi-Threading in Java
+
+- **06-Feb-2026 (Wednesday):**  
+  Studied **Multi-Threading** in Java. Learned thread creation, thread lifecycle, synchronization, thread-safe operations, and concurrent programming. Explored practical applications of multithreading for building responsive and efficient applications.
+
+  **Multi-Threading Concepts Covered:**
+  - Thread creation and lifecycle
+  - Synchronization and locks
+  - Thread-safe data structures
+  - Producer-Consumer problem
+  - Deadlock prevention
+  - Executor framework
+
+  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/multithreading-practice
+
+### Week 9: JDBC & Database Management System
+
+- **09-Feb-2026 (Sunday):**  
+  Studied **JDBC (Java Database Connectivity)** and **Database Management Systems**. Learned SQL basics, database connections, CRUD operations, prepared statements, and transaction management. Explored MySQL integration with Java applications.
+
+  **JDBC & DBMS Topics Covered:**
+  - JDBC fundamentals and driver management
+  - Database connection pooling
+  - PreparedStatement and parameterized queries
+  - CRUD operations
+  - Transaction management and rollback
+  - MySQL database implementation
+  - Query optimization
+
+  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/jdbc-dbms-practice
+
+### Week 10: Java Backend - Spring & Servlet
+
+- **13-Feb-2026 (Thursday):**  
+  Began learning **Java Backend Development**. Studied **Tomcat Servlet** fundamentals and **Spring Framework** introduction. Understood request-response cycle, servlet lifecycle, and Spring's dependency injection and inversion of control principles.
+
+  **Backend Topics Covered:**
+  - Tomcat servlet container
+  - Servlet lifecycle and request handling
+  - Spring Framework basics
+  - Dependency Injection (DI)
+  - Inversion of Control (IoC)
+  - Spring annotations and configuration
+
+  **Mini Project - Online Course Enrollment Manager (Java 8):**
+  - Designed application using Java 8 features
+  - Implemented enrollment details management with Student Name, Course Name, Course Category, Enrollment Date
+  - Functionality: Filter by course, Filter by category, Group by course name, Count enrollments per category, Sort by enrollment date
+  - Technical Stack: Streams API, Lambda Expressions, Method References, Collectors (groupingBy, counting), Comparator
+  - Demonstrated functional programming with clean and readable code
+
+  **Branch:** https://github.com/shivam9pal/BridgeLabz-Training/tree/java-backend-practice
+
 ---
 
+## Key Learning Achievements
+
+Throughout this training journey, comprehensive mastery has been developed across:
+
+### Core Competencies
+1. **Object-Oriented Programming** - Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction
+2. **Data Structures & Algorithms** - LinkedList, Stack, Queue, HashMap, Sorting, Searching algorithms
+3. **Collections Framework** - List, Set, Map interfaces and implementations with practical scenarios
+4. **Java 8 Features** - Lambda Expressions, Functional Interfaces, Streams API, Collectors
+5. **Design Patterns** - Creational, Structural, and Behavioral patterns with SOLID principles
+6. **Multi-Threading** - Thread creation, synchronization, concurrent programming
+7. **Database Management** - JDBC, SQL, MySQL integration
+8. **Backend Development** - Servlet, Spring Framework fundamentals
 
 
+
+
+---
