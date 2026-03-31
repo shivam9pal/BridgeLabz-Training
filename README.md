@@ -470,7 +470,7 @@ Throughout this training journey, comprehensive mastery has been developed acros
 5. **Design Patterns** - Creational, Structural, and Behavioral patterns with SOLID principles
 6. **Multi-Threading** - Thread creation, synchronization, concurrent programming
 7. **Database Management** - JDBC, SQL, MySQL integration
-8. **Backend Development** - Servlet, Spring Framework fundamentals
+8. **Backend Development** - Servlet, Spring Framework fundamentals,       SpringBoot, AWS(EC2, IOT, RDS, Lambda, etc)
 
 
 
