@@ -1,0 +1,24 @@
+package week04.gcrcodebase.exception;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class ReadFirstLine {
+
+    public static void main(String[] args) {
+
+        try (BufferedReader br = new BufferedReader(new FileReader("info.txt"))) {
+
+            String firstLine = br.readLine();
+
+            if (firstLine != null) {
+                System.out.println(firstLine);
+            }
+
+        } catch (IOException e) {
+            System.out.println("Error reading file");
+        }
+    }
+}
+
